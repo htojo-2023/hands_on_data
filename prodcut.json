@@ -1,0 +1,514 @@
+[
+    {
+        "M_PRODUCT_CODE": "A00001",
+        "M_PRODUCT_NAME": "幕の内弁当",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "382",
+        "M_UNIT_PRICE": "550",
+        "M_UNI_PRICE_TAX": "578"
+    },
+    {
+        "M_PRODUCT_CODE": "A00002",
+        "M_PRODUCT_NAME": "天丼",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "411",
+        "M_UNIT_PRICE": "500",
+        "M_UNI_PRICE_TAX": "525"
+    },
+    {
+        "M_PRODUCT_CODE": "A00003",
+        "M_PRODUCT_NAME": "カツ丼",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "365",
+        "M_UNIT_PRICE": "500",
+        "M_UNI_PRICE_TAX": "525"
+    },
+    {
+        "M_PRODUCT_CODE": "A00004",
+        "M_PRODUCT_NAME": "のり弁当",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "247",
+        "M_UNIT_PRICE": "380",
+        "M_UNI_PRICE_TAX": "399"
+    },
+    {
+        "M_PRODUCT_CODE": "A00005",
+        "M_PRODUCT_NAME": "しょうが焼き弁当",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "274",
+        "M_UNIT_PRICE": "400",
+        "M_UNI_PRICE_TAX": "420"
+    },
+    {
+        "M_PRODUCT_CODE": "A00006",
+        "M_PRODUCT_NAME": "ハンバーグ弁当",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "340",
+        "M_UNIT_PRICE": "450",
+        "M_UNI_PRICE_TAX": "473"
+    },
+    {
+        "M_PRODUCT_CODE": "A00007",
+        "M_PRODUCT_NAME": "ナポリタン",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "236",
+        "M_UNIT_PRICE": "400",
+        "M_UNI_PRICE_TAX": "420"
+    },
+    {
+        "M_PRODUCT_CODE": "A00008",
+        "M_PRODUCT_NAME": "カルボナーラ",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "248",
+        "M_UNIT_PRICE": "400",
+        "M_UNI_PRICE_TAX": "420"
+    },
+    {
+        "M_PRODUCT_CODE": "A00009",
+        "M_PRODUCT_NAME": "海鮮ドリア",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "350",
+        "M_UNIT_PRICE": "500",
+        "M_UNI_PRICE_TAX": "525"
+    },
+    {
+        "M_PRODUCT_CODE": "A00010",
+        "M_PRODUCT_NAME": "冷やし中華",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "189",
+        "M_UNIT_PRICE": "350",
+        "M_UNI_PRICE_TAX": "368"
+    },
+    {
+        "M_PRODUCT_CODE": "A00011",
+        "M_PRODUCT_NAME": "うどん",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "128",
+        "M_UNIT_PRICE": "300",
+        "M_UNI_PRICE_TAX": "315"
+    },
+    {
+        "M_PRODUCT_CODE": "A00012",
+        "M_PRODUCT_NAME": "蕎麦",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "115",
+        "M_UNIT_PRICE": "300",
+        "M_UNI_PRICE_TAX": "315"
+    },
+    {
+        "M_PRODUCT_CODE": "A00013",
+        "M_PRODUCT_NAME": "おにぎり（ツナ）",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "65",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "A00014",
+        "M_PRODUCT_NAME": "おにぎり（梅）",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "72",
+        "M_UNIT_PRICE": "110",
+        "M_UNI_PRICE_TAX": "116"
+    },
+    {
+        "M_PRODUCT_CODE": "A00015",
+        "M_PRODUCT_NAME": "おにぎり（鮭）",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "75",
+        "M_UNIT_PRICE": "120",
+        "M_UNI_PRICE_TAX": "126"
+    },
+    {
+        "M_PRODUCT_CODE": "A00016",
+        "M_PRODUCT_NAME": "おにぎり（明太子）",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "78",
+        "M_UNIT_PRICE": "130",
+        "M_UNI_PRICE_TAX": "137"
+    },
+    {
+        "M_PRODUCT_CODE": "A00017",
+        "M_PRODUCT_NAME": "おにぎり（おかか）",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "67",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "A00018",
+        "M_PRODUCT_NAME": "たまごサンド",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "122",
+        "M_UNIT_PRICE": "200",
+        "M_UNI_PRICE_TAX": "210"
+    },
+    {
+        "M_PRODUCT_CODE": "A00019",
+        "M_PRODUCT_NAME": "ツナサンド",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "110",
+        "M_UNIT_PRICE": "190",
+        "M_UNI_PRICE_TAX": "200"
+    },
+    {
+        "M_PRODUCT_CODE": "A00020",
+        "M_PRODUCT_NAME": "ハムサンド",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "129",
+        "M_UNIT_PRICE": "210",
+        "M_UNI_PRICE_TAX": "221"
+    },
+    {
+        "M_PRODUCT_CODE": "A00021",
+        "M_PRODUCT_NAME": "野菜サンド",
+        "M_PRODUCT_CATEGORY": "お弁当",
+        "M_COST": "115",
+        "M_UNIT_PRICE": "200",
+        "M_UNI_PRICE_TAX": "210"
+    },
+    {
+        "M_PRODUCT_CODE": "B00001",
+        "M_PRODUCT_NAME": "コッペパン",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "64",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "B00002",
+        "M_PRODUCT_NAME": "メロンパン",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "62",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "B00003",
+        "M_PRODUCT_NAME": "あんパン",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "68",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "B00004",
+        "M_PRODUCT_NAME": "クリームパン",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "72",
+        "M_UNIT_PRICE": "110",
+        "M_UNI_PRICE_TAX": "116"
+    },
+    {
+        "M_PRODUCT_CODE": "B00005",
+        "M_PRODUCT_NAME": "あんドーナツ",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "63",
+        "M_UNIT_PRICE": "90",
+        "M_UNI_PRICE_TAX": "95"
+    },
+    {
+        "M_PRODUCT_CODE": "B00006",
+        "M_PRODUCT_NAME": "りんごディニッシュ",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "92",
+        "M_UNIT_PRICE": "140",
+        "M_UNI_PRICE_TAX": "147"
+    },
+    {
+        "M_PRODUCT_CODE": "B00007",
+        "M_PRODUCT_NAME": "カレーパン",
+        "M_PRODUCT_CATEGORY": "パン",
+        "M_COST": "75",
+        "M_UNIT_PRICE": "110",
+        "M_UNI_PRICE_TAX": "116"
+    },
+    {
+        "M_PRODUCT_CODE": "C00001",
+        "M_PRODUCT_NAME": "パンナコッタ",
+        "M_PRODUCT_CATEGORY": "デザート",
+        "M_COST": "107",
+        "M_UNIT_PRICE": "200",
+        "M_UNI_PRICE_TAX": "210"
+    },
+    {
+        "M_PRODUCT_CODE": "C00002",
+        "M_PRODUCT_NAME": "コーヒーゼリー",
+        "M_PRODUCT_CATEGORY": "デザート",
+        "M_COST": "120",
+        "M_UNIT_PRICE": "250",
+        "M_UNI_PRICE_TAX": "263"
+    },
+    {
+        "M_PRODUCT_CODE": "C00003",
+        "M_PRODUCT_NAME": "プリン",
+        "M_PRODUCT_CATEGORY": "デザート",
+        "M_COST": "112",
+        "M_UNIT_PRICE": "220",
+        "M_UNI_PRICE_TAX": "231"
+    },
+    {
+        "M_PRODUCT_CODE": "C00004",
+        "M_PRODUCT_NAME": "シュークリーム",
+        "M_PRODUCT_CATEGORY": "デザート",
+        "M_COST": "74",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "C00005",
+        "M_PRODUCT_NAME": "エクレア",
+        "M_PRODUCT_CATEGORY": "デザート",
+        "M_COST": "81",
+        "M_UNIT_PRICE": "120",
+        "M_UNI_PRICE_TAX": "126"
+    },
+    {
+        "M_PRODUCT_CODE": "D00001",
+        "M_PRODUCT_NAME": "チョコレート",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "77",
+        "M_UNIT_PRICE": "120",
+        "M_UNI_PRICE_TAX": "126"
+    },
+    {
+        "M_PRODUCT_CODE": "D00002",
+        "M_PRODUCT_NAME": "マカロン",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "91",
+        "M_UNIT_PRICE": "150",
+        "M_UNI_PRICE_TAX": "158"
+    },
+    {
+        "M_PRODUCT_CODE": "D00003",
+        "M_PRODUCT_NAME": "ポテトチップス",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "52",
+        "M_UNIT_PRICE": "130",
+        "M_UNI_PRICE_TAX": "137"
+    },
+    {
+        "M_PRODUCT_CODE": "D00004",
+        "M_PRODUCT_NAME": "おかき",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "45",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "D00005",
+        "M_PRODUCT_NAME": "かりんとう",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "65",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "D00006",
+        "M_PRODUCT_NAME": "ガム",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "47",
+        "M_UNIT_PRICE": "110",
+        "M_UNI_PRICE_TAX": "116"
+    },
+    {
+        "M_PRODUCT_CODE": "D00007",
+        "M_PRODUCT_NAME": "のど飴",
+        "M_PRODUCT_CATEGORY": "お菓子",
+        "M_COST": "80",
+        "M_UNIT_PRICE": "180",
+        "M_UNI_PRICE_TAX": "189"
+    },
+    {
+        "M_PRODUCT_CODE": "E00001",
+        "M_PRODUCT_NAME": "バニラアイス",
+        "M_PRODUCT_CATEGORY": "アイスクリーム",
+        "M_COST": "72",
+        "M_UNIT_PRICE": "150",
+        "M_UNI_PRICE_TAX": "158"
+    },
+    {
+        "M_PRODUCT_CODE": "E00002",
+        "M_PRODUCT_NAME": "チョコレートアイス",
+        "M_PRODUCT_CATEGORY": "アイスクリーム",
+        "M_COST": "75",
+        "M_UNIT_PRICE": "150",
+        "M_UNI_PRICE_TAX": "158"
+    },
+    {
+        "M_PRODUCT_CODE": "E00003",
+        "M_PRODUCT_NAME": "ストロベリーアイス",
+        "M_PRODUCT_CATEGORY": "アイスクリーム",
+        "M_COST": "75",
+        "M_UNIT_PRICE": "150",
+        "M_UNI_PRICE_TAX": "158"
+    },
+    {
+        "M_PRODUCT_CODE": "F00001",
+        "M_PRODUCT_NAME": "緑茶",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "55",
+        "M_UNIT_PRICE": "140",
+        "M_UNI_PRICE_TAX": "147"
+    },
+    {
+        "M_PRODUCT_CODE": "F00002",
+        "M_PRODUCT_NAME": "玄米茶",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "55",
+        "M_UNIT_PRICE": "140",
+        "M_UNI_PRICE_TAX": "147"
+    },
+    {
+        "M_PRODUCT_CODE": "F00003",
+        "M_PRODUCT_NAME": "ウーロン茶",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "55",
+        "M_UNIT_PRICE": "140",
+        "M_UNI_PRICE_TAX": "147"
+    },
+    {
+        "M_PRODUCT_CODE": "F00004",
+        "M_PRODUCT_NAME": "ジャスミン茶",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "60",
+        "M_UNIT_PRICE": "140",
+        "M_UNI_PRICE_TAX": "147"
+    },
+    {
+        "M_PRODUCT_CODE": "F00005",
+        "M_PRODUCT_NAME": "コーラ",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "25",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "F00006",
+        "M_PRODUCT_NAME": "オレンジジュース",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "45",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "F00007",
+        "M_PRODUCT_NAME": "野菜ジュース",
+        "M_PRODUCT_CATEGORY": "ソフトドリンク",
+        "M_COST": "60",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "G00001",
+        "M_PRODUCT_NAME": "日本酒",
+        "M_PRODUCT_CATEGORY": "お酒",
+        "M_COST": "270",
+        "M_UNIT_PRICE": "450",
+        "M_UNI_PRICE_TAX": "473"
+    },
+    {
+        "M_PRODUCT_CODE": "G00002",
+        "M_PRODUCT_NAME": "焼酎",
+        "M_PRODUCT_CATEGORY": "お酒",
+        "M_COST": "320",
+        "M_UNIT_PRICE": "690",
+        "M_UNI_PRICE_TAX": "725"
+    },
+    {
+        "M_PRODUCT_CODE": "G00003",
+        "M_PRODUCT_NAME": "ビール",
+        "M_PRODUCT_CATEGORY": "お酒",
+        "M_COST": "110",
+        "M_UNIT_PRICE": "250",
+        "M_UNI_PRICE_TAX": "263"
+    },
+    {
+        "M_PRODUCT_CODE": "G00004",
+        "M_PRODUCT_NAME": "ウイスキー",
+        "M_PRODUCT_CATEGORY": "お酒",
+        "M_COST": "480",
+        "M_UNIT_PRICE": "980",
+        "M_UNI_PRICE_TAX": "1029"
+    },
+    {
+        "M_PRODUCT_CODE": "H00001",
+        "M_PRODUCT_NAME": "乾電池",
+        "M_PRODUCT_CATEGORY": "家庭用品",
+        "M_COST": "110",
+        "M_UNIT_PRICE": "250",
+        "M_UNI_PRICE_TAX": "263"
+    },
+    {
+        "M_PRODUCT_CODE": "H00002",
+        "M_PRODUCT_NAME": "紙コップ",
+        "M_PRODUCT_CATEGORY": "家庭用品",
+        "M_COST": "62",
+        "M_UNIT_PRICE": "120",
+        "M_UNI_PRICE_TAX": "126"
+    },
+    {
+        "M_PRODUCT_CODE": "H00003",
+        "M_PRODUCT_NAME": "紙皿",
+        "M_PRODUCT_CATEGORY": "家庭用品",
+        "M_COST": "72",
+        "M_UNIT_PRICE": "120",
+        "M_UNI_PRICE_TAX": "126"
+    },
+    {
+        "M_PRODUCT_CODE": "H00004",
+        "M_PRODUCT_NAME": "割り箸",
+        "M_PRODUCT_CATEGORY": "家庭用品",
+        "M_COST": "51",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "I00001",
+        "M_PRODUCT_NAME": "B5ノート",
+        "M_PRODUCT_CATEGORY": "文具",
+        "M_COST": "51",
+        "M_UNIT_PRICE": "120",
+        "M_UNI_PRICE_TAX": "126"
+    },
+    {
+        "M_PRODUCT_CODE": "I00002",
+        "M_PRODUCT_NAME": "シャープペン",
+        "M_PRODUCT_CATEGORY": "文具",
+        "M_COST": "48",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "I00003",
+        "M_PRODUCT_NAME": "ボールペン",
+        "M_PRODUCT_CATEGORY": "文具",
+        "M_COST": "44",
+        "M_UNIT_PRICE": "100",
+        "M_UNI_PRICE_TAX": "105"
+    },
+    {
+        "M_PRODUCT_CODE": "I00004",
+        "M_PRODUCT_NAME": "消しゴム",
+        "M_PRODUCT_CATEGORY": "文具",
+        "M_COST": "32",
+        "M_UNIT_PRICE": "70",
+        "M_UNI_PRICE_TAX": "74"
+    },
+    {
+        "M_PRODUCT_CODE": "J00001",
+        "M_PRODUCT_NAME": "ジャーキー",
+        "M_PRODUCT_CATEGORY": "ペットフード",
+        "M_COST": "168",
+        "M_UNIT_PRICE": "300",
+        "M_UNI_PRICE_TAX": "315"
+    },
+    {
+        "M_PRODUCT_CODE": "J00002",
+        "M_PRODUCT_NAME": "缶詰",
+        "M_PRODUCT_CATEGORY": "ペットフード",
+        "M_COST": "147",
+        "M_UNIT_PRICE": "280",
+        "M_UNI_PRICE_TAX": "294"
+    }
+]
